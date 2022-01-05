@@ -27,3 +27,17 @@ footer{
 	padding-top: 20px;
 
 }
+
+button{
+	border-radius: 50px;
+	background-color: #667F69;
+	color: white;
+}
+
+a{
+	color: #667F69;
+}
+
+img{
+	size: 100px;
+}
