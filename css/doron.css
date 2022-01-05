@@ -2,12 +2,15 @@ body{
 	text-align: center;
 	background: lightgray;
 	font-family: Baskerville;
+	padding: 20px;
 }
 
 
 h1{
 	font-size: 40px;
 	font-family: Helvetica;
+	border: solid;
+	padding: 20px;
 }
 
 footer{
@@ -15,3 +18,12 @@ footer{
 	background: #667F69;
 }
 
+img{
+	max-width: 40px;
+}
+
+footer{
+	padding-bottom: 30px;
+	padding-top: 20px;
+
+}
