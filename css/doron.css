@@ -1,5 +1,6 @@
 body{
-	background: green;
+	background: lightgray;
+	text-align: center;
 }
 
 img{
@@ -14,3 +15,4 @@ h1{
 footer{
 	text-align: center;
 }
+
