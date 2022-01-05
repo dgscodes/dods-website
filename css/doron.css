@@ -3,6 +3,7 @@ body{
 	background: lightgray;
 	font-family: Baskerville;
 	padding: 20px;
+	font-size: 30px;
 }
 
 
@@ -25,6 +26,8 @@ img{
 footer{
 	padding-bottom: 30px;
 	padding-top: 20px;
+	padding-right: 0px;
+	padding-left: 0px;
 
 }
 
@@ -32,6 +35,7 @@ button{
 	border-radius: 50px;
 	background-color: #667F69;
 	color: white;
+	border-color: white;
 
 }
 
