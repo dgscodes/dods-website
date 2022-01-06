@@ -34,6 +34,9 @@ button{
 	color: white;
 	border-color: white;
 	border: double;
+	padding: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
 
 }
 
