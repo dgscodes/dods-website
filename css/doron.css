@@ -1,47 +1,48 @@
 body{
-	text-align: center;
-	background: lightgray;
-	font-family: Baskerville;
-	padding: 20px;
-	font-size: 30px;
+text-align: center;
+background: lightgray;
+font-family: Baskerville;
+padding: 20px;
+font-size: 30px;
 }
 
 
 h1{
-	font-size: 100px;
-	font-family: Helvetica;
-	border: solid;
-	padding: 20px;
+font-size: 100px;
+font-family: Helvetica;
+border: solid;
+padding: 20px;
 }
 
 footer{
-	text-align: center;
-	background: #667F69;
+text-align: center;
+background: #667F69;
 }
 
 
 footer{
-	padding-bottom: 30px;
-	padding-top: 20px;
-	padding-right: 0px;
-	padding-left: 0px;
+padding-bottom: 30px;
+padding-top: 20px;
+padding-right: 0px;
+padding-left: 0px;
+color: white;
 
 }
 
 button{
-	border-radius: 50px;
-	background-color: #667F69;
-	color: white;
-	border-color: white;
-	border: double;
-	padding: 15px;
-	padding-left: 30px;
-	padding-right: 30px;
+border-radius: 50px;
+background-color: #667F69;
+color: white;
+border-color: white;
+border: double;
+padding: 15px;
+padding-left: 30px;
+padding-right: 30px;
 
 }
 
 a{
-	color: white;
+color: white;
 }
 
 
